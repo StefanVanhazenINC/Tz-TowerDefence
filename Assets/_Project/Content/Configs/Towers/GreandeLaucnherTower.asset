@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4cd0dba58df14fb795bb2ff333707bd1, type: 3}
+  m_Name: GreandeLaucnherTower
+  m_EditorClassIdentifier: 
+  _towerClass:
+    Visual: {fileID: -7220656101156619874, guid: ec5704e4b15863245a7179d6c73a1661, type: 3}
+    Name: GreandeLaucnherTower
+    BaseWeapon: {fileID: 11400000, guid: 71a5319e1c7d4e74fb4798b2f1916b58, type: 2}
